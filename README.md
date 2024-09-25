@@ -3,7 +3,7 @@
 I'm a 27 year-old full stack developer based in Indiana, and I'm passionate about crafting digital experiences.
 
 * Check out my [website](https://samnpage.github.io/Personal-Portfolio/) to learn more about me.
-* Stay updated with my journey on [Instagram](https://www.instagram.com/samnpage/) or [LinkedIn](https://www.linkedin.com/in/sam-page-012688243/).
+* Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/sam-page-012688243/).
 
 
 ## 👩‍💻 Tech Stack
