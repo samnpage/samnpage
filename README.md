@@ -26,5 +26,5 @@ Others: ```Agile``` ```Scrum```
 
 ## 📫 Contact
 
-For a quick response, DM me on [Instagram](https://www.instagram.com/samnpage/) or [LinkedIn](https://www.linkedin.com/in/sam-page-012688243/).  
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/sam-page-012688243/).  
 Email: samnpage96@gmail.com
